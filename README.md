@@ -68,7 +68,8 @@ endmodule
 
     
 ## Truth Table
- <img width="1000" height="377" alt="Screenshot 2026-11-21 105244" src="https://github.com/user-attachments/assets/82245ac4-1042-4992-b375-b922c5c51ac5" />
+<img width="666" height="422" alt="Screenshot 2026-11-21 105943" src="https://github.com/user-attachments/assets/9c19c9d9-e801-464c-8f98-fb4f0533053d" />
+
 
 
 
